@@ -16,6 +16,13 @@
 </br>
 </br>
 
+
+# Demo
+Here is a working live demo : https://snchat-bot.herokuapp.com/
+</br>
+</br>
+
+
 # Setup
 - Clone this repo to your desktop using `git clone` command.
 - Disable cors in your browser before running the chatbot
