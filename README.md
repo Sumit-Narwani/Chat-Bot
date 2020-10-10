@@ -1,5 +1,10 @@
 # CHAT-BOT
 
+
+[![GitHub license](https://img.shields.io/github/license/Sumit-Narwani/Chat-Bot)](https://github.com/Sumit-Narwani/Chat-Bot/blob/main/LICENSE)  [![GitHub issues](https://img.shields.io/github/issues/Sumit-Narwani/Chat-Bot)](https://github.com/Sumit-Narwani/Chat-Bot/issues)  [![GitHub forks](https://img.shields.io/github/forks/Sumit-Narwani/Chat-Bot)](https://github.com/Sumit-Narwani/Chat-Bot/network)  [![GitHub stars](https://img.shields.io/github/stars/Sumit-Narwani/Chat-Bot)](https://github.com/Sumit-Narwani/Chat-Bot/stargazers)
+ 
+
+</br>
 *A Chatbot like experience created using **HTML**, **CSS**, **Javascript** and some APIs to **fetch dynamic data***
 </br>
 </br>
@@ -14,7 +19,7 @@
 - It can fetch **news** dynamically.
 - It can also fetch **Quotes**.
 </br>
-</br>
+</br>   
 
 
 # Demo
